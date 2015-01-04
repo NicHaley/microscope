@@ -1,5 +1,6 @@
 {
   "packages": {
-    "bootstrap.jasny": {}
+    "bootstrap.jasny": {},
+    "iron-router": {}
   }
 }
