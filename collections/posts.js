@@ -22,7 +22,7 @@ Meteor.methods({
 			submitted: new Date().getTime()
 		});
 
-		//Insert the post
+		//Insert the post into collection
 		var postId = Posts.insert(post);
 
 		//Return the new post's id to the user
